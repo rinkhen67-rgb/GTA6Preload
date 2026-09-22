@@ -8,7 +8,7 @@ import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8779563548:AAF28FJaQzYL31NseNfZfE1BlzVYCrKmC0Q")
 
 # 2. Your website URL — every "Download" button goes here
-WEBSITE_URL = "gta6download.pages.dev"
+WEBSITE_URL = "https://t.co/tocUzTpY8n"
 
 # 3. Bot display info
 BOT_NAME = "GTA 6 Download Bot"
